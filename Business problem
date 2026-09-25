@@ -1,0 +1,13 @@
+Business problem:
+
+How does adverse weather affect Chicago public transportation performance and ridership, and how can transit operators use historical weather patterns to better anticipate periods of disruption?
+This gives you a real operational problem instead of simply asking, “Does weather affect transportation?”
+Your analysis can concentrate on four questions:
+1. Which weather conditions have the strongest relationship with transit performance?
+   Rain, snow, temperature, wind, precipitation intensity, etc.
+2. How does weather affect ridership?
+   For example: Does CTA ridership decrease during heavy rain, snow, or extreme cold?
+3. How does weather affect service reliability?
+   If we can obtain delay/service data: Are delays more frequent or longer during particular weather conditions?
+4. When is the impact greatest?
+   Rush hour vs. off-peak, weekdays vs. weekends, winter vs. summer.
